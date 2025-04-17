@@ -17,7 +17,7 @@ Welcome to Ghosts Design, your ultimate destination for innovative digital and d
 
 - [@Tiberiu Neagu](https://github.com/TiberiuNeagu)
 
-- [@Mattia Agosta](https://github.com/BloodYce)
+- [@Mattia Agosta](https://github.com/MattiaAgosta)
 
 - [@Matteo Dotti]()
 
